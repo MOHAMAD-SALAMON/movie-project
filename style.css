@@ -1,6 +1,7 @@
 *{
     color: #080808;
     box-sizing: border-box;
+    scroll-behavior: smooth;
 }
 nav .menu-btn{
     display: none;
